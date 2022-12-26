@@ -1,0 +1,4 @@
+2022-12-21 21:03:31,080 +0530 [main] INFO  (loginPageTest.java:18) - URL is opened
+2022-12-21 21:03:31,274 +0530 [main] INFO  (loginPageTest.java:23) - Entered username
+2022-12-21 21:03:31,559 +0530 [main] INFO  (loginPageTest.java:25) - Entered password
+2022-12-21 21:03:34,307 +0530 [main] INFO  (loginPageTest.java:33) - Testcase Passed
